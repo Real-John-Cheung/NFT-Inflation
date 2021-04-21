@@ -8,5 +8,5 @@ $(document).ready(function () {
         correctLevel : QRCode.CorrectLevel.H
     });
     qrcode.clear();
-    qrcode.makeCode("https://real-john-cheung.github.io/NFT-Inflation/exec/");
+    qrcode.makeCode("https://real-john-cheung.github.io/NFT-Inflation/");
 });
